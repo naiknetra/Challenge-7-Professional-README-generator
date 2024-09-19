@@ -1,0 +1,19 @@
+{
+  "name": "challenge-7-professional-readme-generator",
+  "version": "1.0.0",
+  "description": "Nodejs CLI app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "Inquirer"
+  ],
+  "author": "Netra",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
